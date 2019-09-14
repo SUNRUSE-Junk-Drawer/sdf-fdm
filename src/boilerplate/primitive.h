@@ -1,0 +1,5 @@
+typedef sdf_fdm_u8_t sdf_fdm_primitive_t;
+#define SDF_FDM_PRIMITIVE_MAX SDF_FDM_U8_MAX
+#define SDF_FDM_PRIMITIVE_RANGE SDF_FDM_U8_RANGE
+#define SDF_FDM_PRIMITIVE_BOOLEAN 0
+#define SDF_FDM_PRIMITIVE_FLOAT 1
