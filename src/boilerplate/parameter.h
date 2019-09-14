@@ -1,0 +1,3 @@
+typedef sdf_fdm_u8_t sdf_fdm_parameter_t;
+#define SDF_FDM_PARAMETER_MAX SDF_FDM_U8_MAX
+#define SDF_FDM_PARAMETER_RANGE SDF_FDM_U8_RANGE
